@@ -14,11 +14,8 @@ header{
     margin-bottom: 100px;
 }
 
-
-
 .sobre{
     display: flex;
-    border: solid red 1px;
 }
 
 .sobre .fotoperfil{
@@ -28,8 +25,6 @@ header{
     background-color: azure;
     font-size: 20px;
 }
-
-
 
 .info .h3{
     background-color: white;
@@ -87,19 +82,19 @@ header{
 
 @keyframes palavras {
     0%, 20%{
-        content: "Tenho 23 anos. moro no Espirito Santo-Brasil";
+        content: "Tenho 23 anos e moro no Espirito Santo-Brasil.";
     }
     21%, 40%{
-        content: "Estudo no Instituto Federal do Espirito Santo - IFES";
+        content: "Estudo no Instituto Federal do Espirito Santo - IFES.";
     }
     41%, 60%{
-        content: "Gosto de jogos onlines, principalmente cooperativos";
+        content: "Gosto de jogos onlines, principalmente cooperativos.";
     }
     61%, 80%{
         content: "Sou Fã de Doctor Who";
     }
     81%, 100%{
-        content: "Amo esportes e atualmente faço capoeira e ando de skate";
+        content: "Amo esportes e atualmente faço capoeira e ando de skate.";
     }
     
 }
